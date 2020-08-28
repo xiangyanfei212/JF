@@ -1,0 +1,1240 @@
+2020-08-26 15:47:42,654 - -------------- Processing /share_data/aigroup/DATA/00_Processed_Data_for_Projects/NMDIS/5d_mean/HYCOM_d5_mean/2017 ---------------
+2020-08-26 15:47:43,393 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_1.nc
+2020-08-26 15:47:43,477 - copy:201701_1.nc
+2020-08-26 15:48:04,782 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_2.nc
+2020-08-26 15:48:04,782 - copy:201701_2.nc
+2020-08-26 15:48:28,055 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_3.nc
+2020-08-26 15:48:28,056 - copy:201701_3.nc
+2020-08-26 15:48:49,735 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_4.nc
+2020-08-26 15:48:49,735 - copy:201701_4.nc
+2020-08-26 15:49:13,451 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_5.nc
+2020-08-26 15:49:13,963 - copy:201701_5.nc
+2020-08-26 15:49:39,797 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_6.nc
+2020-08-26 15:49:39,824 - copy:201701_6.nc
+2020-08-26 15:50:05,919 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_1.nc
+2020-08-26 15:50:05,920 - file: 201702_1.nc
+2020-08-26 15:50:21,025 - temp: (33, 1564, 4500)
+2020-08-26 15:50:31,789 - sal: (33, 1564, 4500)
+2020-08-26 15:55:33,590 - -------------- Processing /share_data/aigroup/DATA/00_Processed_Data_for_Projects/NMDIS/5d_mean/HYCOM_d5_mean/2017 ---------------
+2020-08-26 15:55:33,677 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_1.nc
+2020-08-26 15:55:33,678 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_1.nc
+2020-08-26 15:55:33,678 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_2.nc
+2020-08-26 15:55:33,678 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_2.nc
+2020-08-26 15:55:33,678 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_3.nc
+2020-08-26 15:55:33,678 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_3.nc
+2020-08-26 15:55:33,678 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_4.nc
+2020-08-26 15:55:33,678 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_4.nc
+2020-08-26 15:55:33,678 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_5.nc
+2020-08-26 15:55:33,678 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_5.nc
+2020-08-26 15:55:33,679 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_6.nc
+2020-08-26 15:55:33,679 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_6.nc
+2020-08-26 15:55:33,679 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_1.nc
+2020-08-26 15:55:33,679 - file: 201702_1.nc
+2020-08-26 15:55:44,128 - temp: (33, 1564, 4500)
+2020-08-26 16:04:59,655 - -------------- Processing /share_data/aigroup/DATA/00_Processed_Data_for_Projects/NMDIS/5d_mean/HYCOM_d5_mean/2017 ---------------
+2020-08-26 16:04:59,658 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_1.nc
+2020-08-26 16:04:59,658 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_1.nc
+2020-08-26 16:04:59,658 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_2.nc
+2020-08-26 16:04:59,659 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_2.nc
+2020-08-26 16:04:59,659 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_3.nc
+2020-08-26 16:04:59,659 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_3.nc
+2020-08-26 16:04:59,659 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_4.nc
+2020-08-26 16:04:59,659 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_4.nc
+2020-08-26 16:04:59,659 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_5.nc
+2020-08-26 16:04:59,660 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_5.nc
+2020-08-26 16:04:59,660 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_6.nc
+2020-08-26 16:04:59,660 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_6.nc
+2020-08-26 16:04:59,660 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_1.nc
+2020-08-26 16:04:59,660 - file: 201702_1.nc
+2020-08-26 16:05:05,948 - temp: (33, 1564, 4500)
+2020-08-26 16:05:11,446 - sal: (33, 1564, 4500)
+2020-08-26 16:05:19,618 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201702_1.nc ======
+2020-08-26 16:05:54,096 - -------------- Processing /share_data/aigroup/DATA/00_Processed_Data_for_Projects/NMDIS/5d_mean/HYCOM_d5_mean/2017 ---------------
+2020-08-26 16:05:54,104 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_1.nc
+2020-08-26 16:05:54,123 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_1.nc
+2020-08-26 16:05:54,123 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_2.nc
+2020-08-26 16:05:54,128 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_2.nc
+2020-08-26 16:05:54,128 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_3.nc
+2020-08-26 16:05:54,133 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_3.nc
+2020-08-26 16:05:54,133 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_4.nc
+2020-08-26 16:05:54,156 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_4.nc
+2020-08-26 16:05:54,156 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_5.nc
+2020-08-26 16:05:54,172 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_5.nc
+2020-08-26 16:05:54,172 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_6.nc
+2020-08-26 16:05:54,179 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_6.nc
+2020-08-26 16:05:54,179 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_1.nc
+2020-08-26 16:05:54,185 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201702_1.nc
+2020-08-26 16:05:54,185 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_2.nc
+2020-08-26 16:05:54,404 - file: 201702_2.nc
+2020-08-26 16:06:03,368 - temp: (33, 1564, 4500)
+2020-08-26 16:06:11,391 - sal: (33, 1564, 4500)
+2020-08-26 16:06:18,880 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201702_2.nc ======
+2020-08-26 16:06:50,740 - -------------- Processing /share_data/aigroup/DATA/00_Processed_Data_for_Projects/NMDIS/5d_mean/HYCOM_d5_mean/2017 ---------------
+2020-08-26 16:06:50,742 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_1.nc
+2020-08-26 16:06:50,742 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_1.nc
+2020-08-26 16:06:50,742 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_2.nc
+2020-08-26 16:06:50,743 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_2.nc
+2020-08-26 16:06:50,743 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_3.nc
+2020-08-26 16:06:50,743 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_3.nc
+2020-08-26 16:06:50,744 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_4.nc
+2020-08-26 16:06:50,744 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_4.nc
+2020-08-26 16:06:50,744 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_5.nc
+2020-08-26 16:06:50,744 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_5.nc
+2020-08-26 16:06:50,744 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_6.nc
+2020-08-26 16:06:50,744 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201701_6.nc
+2020-08-26 16:06:50,744 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_1.nc
+2020-08-26 16:06:50,745 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201702_1.nc
+2020-08-26 16:06:50,745 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_2.nc
+2020-08-26 16:06:50,745 - exist /share_data/xyf/new_hycom_d5_mean/new_2017/201702_2.nc
+2020-08-26 16:06:50,745 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_3.nc
+2020-08-26 16:06:50,752 - file: 201702_3.nc
+2020-08-26 16:06:56,483 - temp: (33, 1564, 4500)
+2020-08-26 16:07:02,667 - sal: (33, 1564, 4500)
+2020-08-26 16:07:09,614 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201702_3.nc ======
+2020-08-26 16:07:16,612 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_4.nc
+2020-08-26 16:07:16,824 - file: 201702_4.nc
+2020-08-26 16:07:25,296 - temp: (33, 1564, 4500)
+2020-08-26 16:07:32,542 - sal: (33, 1564, 4500)
+2020-08-26 16:07:39,543 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201702_4.nc ======
+2020-08-26 16:07:45,656 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_5.nc
+2020-08-26 16:07:45,675 - file: 201702_5.nc
+2020-08-26 16:07:51,754 - temp: (33, 1564, 4500)
+2020-08-26 16:07:57,535 - sal: (33, 1564, 4500)
+2020-08-26 16:08:04,924 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201702_5.nc ======
+2020-08-26 16:08:13,956 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_6.nc
+2020-08-26 16:08:13,957 - file: 201702_6.nc
+2020-08-26 16:08:27,087 - temp: (33, 1564, 4500)
+2020-08-26 16:08:34,135 - sal: (33, 1564, 4500)
+2020-08-26 16:08:39,794 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201702_6.nc ======
+2020-08-26 16:08:46,414 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201703_1.nc
+2020-08-26 16:08:46,452 - file: 201703_1.nc
+2020-08-26 16:08:55,637 - temp: (33, 1564, 4500)
+2020-08-26 16:09:04,008 - sal: (33, 1564, 4500)
+2020-08-26 16:09:09,321 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201703_1.nc ======
+2020-08-26 16:09:23,210 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201703_2.nc
+2020-08-26 16:09:23,409 - file: 201703_2.nc
+2020-08-26 16:09:48,805 - temp: (33, 1564, 4500)
+2020-08-26 16:10:00,037 - sal: (33, 1564, 4500)
+2020-08-26 16:10:05,598 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201703_2.nc ======
+2020-08-26 16:10:11,739 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201703_3.nc
+2020-08-26 16:10:11,833 - file: 201703_3.nc
+2020-08-26 16:10:17,913 - temp: (33, 1564, 4500)
+2020-08-26 16:10:26,673 - sal: (33, 1564, 4500)
+2020-08-26 16:10:34,069 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201703_3.nc ======
+2020-08-26 16:10:42,643 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201703_4.nc
+2020-08-26 16:10:42,643 - file: 201703_4.nc
+2020-08-26 16:10:47,160 - temp: (33, 1564, 4500)
+2020-08-26 16:10:53,257 - sal: (33, 1564, 4500)
+2020-08-26 16:10:58,645 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201703_4.nc ======
+2020-08-26 16:11:15,549 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201703_5.nc
+2020-08-26 16:11:15,593 - file: 201703_5.nc
+2020-08-26 16:11:21,217 - temp: (33, 1564, 4500)
+2020-08-26 16:11:28,470 - sal: (33, 1564, 4500)
+2020-08-26 16:11:33,371 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201703_5.nc ======
+2020-08-26 16:11:42,195 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201703_6.nc
+2020-08-26 16:11:42,491 - file: 201703_6.nc
+2020-08-26 16:11:50,813 - temp: (33, 1564, 4500)
+2020-08-26 16:11:59,049 - sal: (33, 1564, 4500)
+2020-08-26 16:12:04,084 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201703_6.nc ======
+2020-08-26 16:12:13,144 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201704_1.nc
+2020-08-26 16:12:13,145 - file: 201704_1.nc
+2020-08-26 16:12:20,008 - temp: (33, 1564, 4500)
+2020-08-26 16:12:26,466 - sal: (33, 1564, 4500)
+2020-08-26 16:12:31,640 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201704_1.nc ======
+2020-08-26 16:12:41,846 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201704_2.nc
+2020-08-26 16:12:42,170 - file: 201704_2.nc
+2020-08-26 16:12:49,907 - temp: (33, 1564, 4500)
+2020-08-26 16:12:59,564 - sal: (33, 1564, 4500)
+2020-08-26 16:13:04,854 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201704_2.nc ======
+2020-08-26 16:13:14,021 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201704_3.nc
+2020-08-26 16:13:14,057 - file: 201704_3.nc
+2020-08-26 16:13:20,366 - temp: (33, 1564, 4500)
+2020-08-26 16:13:30,611 - sal: (33, 1564, 4500)
+2020-08-26 16:13:35,564 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201704_3.nc ======
+2020-08-26 16:13:46,394 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201704_4.nc
+2020-08-26 16:13:46,542 - file: 201704_4.nc
+2020-08-26 16:13:56,719 - temp: (33, 1564, 4500)
+2020-08-26 16:14:04,217 - sal: (33, 1564, 4500)
+2020-08-26 16:14:09,487 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201704_4.nc ======
+2020-08-26 16:14:22,153 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201704_5.nc
+2020-08-26 16:14:22,180 - file: 201704_5.nc
+2020-08-26 16:14:28,878 - temp: (33, 1564, 4500)
+2020-08-26 16:14:38,120 - sal: (33, 1564, 4500)
+2020-08-26 16:14:43,359 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201704_5.nc ======
+2020-08-26 16:16:47,010 - -------------- Processing /share_data/aigroup/DATA/00_Processed_Data_for_Projects/NMDIS/5d_mean/HYCOM_d5_mean/2017 ---------------
+2020-08-26 16:16:47,595 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_1.nc
+2020-08-26 16:16:47,661 - copy:201701_1.nc
+2020-08-26 16:17:07,789 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_2.nc
+2020-08-26 16:17:07,916 - copy:201701_2.nc
+2020-08-26 16:17:45,605 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_3.nc
+2020-08-26 16:17:45,766 - copy:201701_3.nc
+2020-08-26 16:18:13,006 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_4.nc
+2020-08-26 16:18:13,126 - copy:201701_4.nc
+2020-08-26 16:18:48,433 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_5.nc
+2020-08-26 16:18:48,483 - copy:201701_5.nc
+2020-08-26 16:19:14,312 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201701_6.nc
+2020-08-26 16:19:14,325 - copy:201701_6.nc
+2020-08-26 16:19:34,806 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_1.nc
+2020-08-26 16:19:34,807 - file: 201702_1.nc
+2020-08-26 16:19:50,520 - temp: (33, 1564, 4500)
+2020-08-26 16:19:59,310 - sal: (33, 1564, 4500)
+2020-08-26 16:20:05,931 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201702_1.nc ======
+2020-08-26 16:20:14,556 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_2.nc
+2020-08-26 16:20:14,557 - file: 201702_2.nc
+2020-08-26 16:20:24,094 - temp: (33, 1564, 4500)
+2020-08-26 16:20:31,596 - sal: (33, 1564, 4500)
+2020-08-26 16:20:39,288 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201702_2.nc ======
+2020-08-26 16:20:49,248 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_3.nc
+2020-08-26 16:20:49,286 - file: 201702_3.nc
+2020-08-26 16:21:00,293 - temp: (33, 1564, 4500)
+2020-08-26 16:21:08,253 - sal: (33, 1564, 4500)
+2020-08-26 16:21:14,981 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201702_3.nc ======
+2020-08-26 16:21:24,609 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_4.nc
+2020-08-26 16:21:24,610 - file: 201702_4.nc
+2020-08-26 16:21:33,781 - temp: (33, 1564, 4500)
+2020-08-26 16:21:43,762 - sal: (33, 1564, 4500)
+2020-08-26 16:21:50,654 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201702_4.nc ======
+2020-08-26 16:21:58,584 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_5.nc
+2020-08-26 16:21:58,584 - file: 201702_5.nc
+2020-08-26 16:22:04,087 - temp: (33, 1564, 4500)
+2020-08-26 16:22:11,384 - sal: (33, 1564, 4500)
+2020-08-26 16:22:18,516 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201702_5.nc ======
+2020-08-26 16:22:28,518 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201702_6.nc
+2020-08-26 16:22:28,519 - file: 201702_6.nc
+2020-08-26 16:22:34,914 - temp: (33, 1564, 4500)
+2020-08-26 16:22:42,347 - sal: (33, 1564, 4500)
+2020-08-26 16:22:49,576 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201702_6.nc ======
+2020-08-26 16:22:58,003 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201703_1.nc
+2020-08-26 16:22:58,003 - file: 201703_1.nc
+2020-08-26 16:23:07,592 - temp: (33, 1564, 4500)
+2020-08-26 16:23:18,210 - sal: (33, 1564, 4500)
+2020-08-26 16:23:25,163 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201703_1.nc ======
+2020-08-26 16:23:35,646 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201703_2.nc
+2020-08-26 16:23:35,647 - file: 201703_2.nc
+2020-08-26 16:23:45,614 - temp: (33, 1564, 4500)
+2020-08-26 16:23:53,075 - sal: (33, 1564, 4500)
+2020-08-26 16:24:01,007 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201703_2.nc ======
+2020-08-26 16:24:10,034 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201703_3.nc
+2020-08-26 16:24:10,034 - file: 201703_3.nc
+2020-08-26 16:24:16,762 - temp: (33, 1564, 4500)
+2020-08-26 16:24:23,758 - sal: (33, 1564, 4500)
+2020-08-26 16:24:30,619 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201703_3.nc ======
+2020-08-26 16:24:41,888 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201703_4.nc
+2020-08-26 16:24:41,903 - file: 201703_4.nc
+2020-08-26 16:24:49,835 - temp: (33, 1564, 4500)
+2020-08-26 16:24:58,150 - sal: (33, 1564, 4500)
+2020-08-26 16:25:05,911 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201703_4.nc ======
+2020-08-26 16:25:15,531 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201703_5.nc
+2020-08-26 16:25:15,559 - file: 201703_5.nc
+2020-08-26 16:25:25,053 - temp: (33, 1564, 4500)
+2020-08-26 16:25:36,017 - sal: (33, 1564, 4500)
+2020-08-26 16:25:42,800 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201703_5.nc ======
+2020-08-26 16:26:01,760 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201703_6.nc
+2020-08-26 16:26:01,906 - file: 201703_6.nc
+2020-08-26 16:26:12,384 - temp: (33, 1564, 4500)
+2020-08-26 16:26:24,845 - sal: (33, 1564, 4500)
+2020-08-26 16:26:30,992 - -------------- Processing /share_data/aigroup/DATA/00_Processed_Data_for_Projects/NMDIS/5d_mean/HYCOM_d5_mean/2018 ---------------
+2020-08-26 16:26:31,173 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201801_1.nc
+2020-08-26 16:26:31,259 - file: 201801_1.nc
+2020-08-26 16:26:31,693 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201703_6.nc ======
+2020-08-26 16:26:46,861 - temp: (33, 1564, 4500)
+2020-08-26 16:26:58,949 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201704_1.nc
+2020-08-26 16:26:59,153 - file: 201704_1.nc
+2020-08-26 16:26:59,346 - -------------- Processing /share_data/aigroup/DATA/00_Processed_Data_for_Projects/NMDIS/5d_mean/HYCOM_d5_mean/2019 ---------------
+2020-08-26 16:27:00,056 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201901_1.nc
+2020-08-26 16:27:00,835 - file: 201901_1.nc
+2020-08-26 16:27:01,873 - sal: (33, 1564, 4500)
+2020-08-26 16:27:09,833 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201801_1.nc ======
+2020-08-26 16:27:18,009 - temp: (33, 1564, 4500)
+2020-08-26 16:27:22,950 - temp: (33, 1564, 4500)
+2020-08-26 16:27:27,175 - sal: (33, 1564, 4500)
+2020-08-26 16:27:30,599 - sal: (33, 1564, 4500)
+2020-08-26 16:27:32,193 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201801_2.nc
+2020-08-26 16:27:32,440 - file: 201801_2.nc
+2020-08-26 16:27:35,615 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201704_1.nc ======
+2020-08-26 16:27:38,024 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201901_1.nc ======
+2020-08-26 16:27:41,423 - temp: (33, 1564, 4500)
+2020-08-26 16:27:48,796 - sal: (33, 1564, 4500)
+2020-08-26 16:27:49,040 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201704_2.nc
+2020-08-26 16:27:49,119 - file: 201704_2.nc
+2020-08-26 16:27:50,014 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201901_2.nc
+2020-08-26 16:27:50,055 - file: 201901_2.nc
+2020-08-26 16:27:56,333 - temp: (33, 1564, 4500)
+2020-08-26 16:27:56,982 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201801_2.nc ======
+2020-08-26 16:27:57,730 - temp: (33, 1564, 4500)
+2020-08-26 16:28:03,011 - sal: (33, 1564, 4500)
+2020-08-26 16:28:04,761 - sal: (33, 1564, 4500)
+2020-08-26 16:28:08,566 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201801_3.nc
+2020-08-26 16:28:08,567 - file: 201801_3.nc
+2020-08-26 16:28:09,538 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201704_2.nc ======
+2020-08-26 16:28:12,991 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201901_2.nc ======
+2020-08-26 16:28:21,104 - temp: (33, 1564, 4500)
+2020-08-26 16:28:31,883 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201704_3.nc
+2020-08-26 16:28:31,984 - file: 201704_3.nc
+2020-08-26 16:28:34,529 - sal: (33, 1564, 4500)
+2020-08-26 16:28:36,005 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201901_3.nc
+2020-08-26 16:28:36,191 - file: 201901_3.nc
+2020-08-26 16:28:39,785 - temp: (33, 1564, 4500)
+2020-08-26 16:28:43,437 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201801_3.nc ======
+2020-08-26 16:28:47,395 - temp: (33, 1564, 4500)
+2020-08-26 16:28:55,696 - sal: (33, 1564, 4500)
+2020-08-26 16:28:57,651 - sal: (33, 1564, 4500)
+2020-08-26 16:29:00,036 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201801_4.nc
+2020-08-26 16:29:00,123 - file: 201801_4.nc
+2020-08-26 16:29:02,718 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201704_3.nc ======
+2020-08-26 16:29:06,557 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201901_3.nc ======
+2020-08-26 16:29:07,438 - temp: (33, 1564, 4500)
+2020-08-26 16:29:14,234 - sal: (33, 1564, 4500)
+2020-08-26 16:29:15,580 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201704_4.nc
+2020-08-26 16:29:15,619 - file: 201704_4.nc
+2020-08-26 16:29:19,213 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201901_4.nc
+2020-08-26 16:29:19,366 - file: 201901_4.nc
+2020-08-26 16:29:22,914 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201801_4.nc ======
+2020-08-26 16:29:23,669 - temp: (33, 1564, 4500)
+2020-08-26 16:29:30,190 - temp: (33, 1564, 4500)
+2020-08-26 16:29:32,439 - sal: (33, 1564, 4500)
+2020-08-26 16:29:39,690 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201704_4.nc ======
+2020-08-26 16:29:40,910 - sal: (33, 1564, 4500)
+2020-08-26 16:29:42,169 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201801_5.nc
+2020-08-26 16:29:42,370 - file: 201801_5.nc
+2020-08-26 16:29:49,188 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201901_4.nc ======
+2020-08-26 16:29:50,033 - temp: (33, 1564, 4500)
+2020-08-26 16:29:50,639 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201704_5.nc
+2020-08-26 16:29:50,789 - file: 201704_5.nc
+2020-08-26 16:29:57,344 - sal: (33, 1564, 4500)
+2020-08-26 16:29:59,850 - temp: (33, 1564, 4500)
+2020-08-26 16:30:03,562 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201901_5.nc
+2020-08-26 16:30:03,989 - file: 201901_5.nc
+2020-08-26 16:30:07,258 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201801_5.nc ======
+2020-08-26 16:30:07,677 - sal: (33, 1564, 4500)
+2020-08-26 16:30:14,357 - temp: (33, 1564, 4500)
+2020-08-26 16:30:14,414 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201704_5.nc ======
+2020-08-26 16:30:20,803 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201801_6.nc
+2020-08-26 16:30:21,390 - file: 201801_6.nc
+2020-08-26 16:30:21,923 - sal: (33, 1564, 4500)
+2020-08-26 16:30:27,261 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201704_6.nc
+2020-08-26 16:30:27,479 - file: 201704_6.nc
+2020-08-26 16:30:29,739 - temp: (33, 1564, 4500)
+2020-08-26 16:30:30,652 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201901_5.nc ======
+2020-08-26 16:30:36,874 - temp: (33, 1564, 4500)
+2020-08-26 16:30:37,326 - sal: (33, 1564, 4500)
+2020-08-26 16:30:46,015 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201901_6.nc
+2020-08-26 16:30:46,258 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201801_6.nc ======
+2020-08-26 16:30:46,409 - sal: (33, 1564, 4500)
+2020-08-26 16:30:46,970 - file: 201901_6.nc
+2020-08-26 16:30:54,671 - temp: (33, 1564, 4500)
+2020-08-26 16:30:55,306 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201704_6.nc ======
+2020-08-26 16:30:58,418 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201802_1.nc
+2020-08-26 16:30:59,535 - file: 201802_1.nc
+2020-08-26 16:31:01,877 - sal: (33, 1564, 4500)
+2020-08-26 16:31:07,321 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201705_1.nc
+2020-08-26 16:31:07,732 - file: 201705_1.nc
+2020-08-26 16:31:08,803 - temp: (33, 1564, 4500)
+2020-08-26 16:31:09,435 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201901_6.nc ======
+2020-08-26 16:31:17,221 - temp: (33, 1564, 4500)
+2020-08-26 16:31:17,238 - sal: (33, 1564, 4500)
+2020-08-26 16:31:23,618 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201902_1.nc
+2020-08-26 16:31:24,007 - file: 201902_1.nc
+2020-08-26 16:31:24,608 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201802_1.nc ======
+2020-08-26 16:31:25,203 - sal: (33, 1564, 4500)
+2020-08-26 16:31:31,953 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201705_1.nc ======
+2020-08-26 16:31:33,598 - temp: (33, 1564, 4500)
+2020-08-26 16:31:35,469 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201802_2.nc
+2020-08-26 16:31:35,912 - file: 201802_2.nc
+2020-08-26 16:31:42,810 - sal: (33, 1564, 4500)
+2020-08-26 16:31:47,859 - temp: (33, 1564, 4500)
+2020-08-26 16:31:48,957 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201705_2.nc
+2020-08-26 16:31:50,196 - file: 201705_2.nc
+2020-08-26 16:31:51,812 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201902_1.nc ======
+2020-08-26 16:31:57,868 - sal: (33, 1564, 4500)
+2020-08-26 16:31:58,601 - temp: (33, 1564, 4500)
+2020-08-26 16:32:05,530 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201902_2.nc
+2020-08-26 16:32:05,787 - sal: (33, 1564, 4500)
+2020-08-26 16:32:05,973 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201802_2.nc ======
+2020-08-26 16:32:06,127 - file: 201902_2.nc
+2020-08-26 16:32:13,074 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201705_2.nc ======
+2020-08-26 16:32:14,586 - temp: (33, 1564, 4500)
+2020-08-26 16:32:15,811 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201802_3.nc
+2020-08-26 16:32:16,019 - file: 201802_3.nc
+2020-08-26 16:32:23,410 - sal: (33, 1564, 4500)
+2020-08-26 16:32:25,736 - temp: (33, 1564, 4500)
+2020-08-26 16:32:26,426 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201705_3.nc
+2020-08-26 16:32:28,310 - file: 201705_3.nc
+2020-08-26 16:32:36,851 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201902_2.nc ======
+2020-08-26 16:32:40,196 - sal: (33, 1564, 4500)
+2020-08-26 16:32:40,626 - temp: (33, 1564, 4500)
+2020-08-26 16:32:48,269 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201802_3.nc ======
+2020-08-26 16:32:50,637 - sal: (33, 1564, 4500)
+2020-08-26 16:32:54,813 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201902_3.nc
+2020-08-26 16:32:54,881 - file: 201902_3.nc
+2020-08-26 16:32:56,900 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201705_3.nc ======
+2020-08-26 16:33:00,601 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201802_4.nc
+2020-08-26 16:33:01,017 - file: 201802_4.nc
+2020-08-26 16:33:02,265 - temp: (33, 1564, 4500)
+2020-08-26 16:33:11,180 - temp: (33, 1564, 4500)
+2020-08-26 16:33:11,957 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201705_4.nc
+2020-08-26 16:33:12,062 - sal: (33, 1564, 4500)
+2020-08-26 16:33:12,826 - file: 201705_4.nc
+2020-08-26 16:33:21,157 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201902_3.nc ======
+2020-08-26 16:33:22,732 - sal: (33, 1564, 4500)
+2020-08-26 16:33:22,949 - temp: (33, 1564, 4500)
+2020-08-26 16:33:31,134 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201802_4.nc ======
+2020-08-26 16:33:31,465 - sal: (33, 1564, 4500)
+2020-08-26 16:33:37,454 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201902_4.nc
+2020-08-26 16:33:37,467 - file: 201902_4.nc
+2020-08-26 16:33:38,822 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201705_4.nc ======
+2020-08-26 16:33:38,864 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201802_5.nc
+2020-08-26 16:33:39,074 - file: 201802_5.nc
+2020-08-26 16:33:49,781 - temp: (33, 1564, 4500)
+2020-08-26 16:33:51,141 - temp: (33, 1564, 4500)
+2020-08-26 16:33:58,372 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201705_5.nc
+2020-08-26 16:33:59,081 - file: 201705_5.nc
+2020-08-26 16:34:00,736 - sal: (33, 1564, 4500)
+2020-08-26 16:34:00,760 - sal: (33, 1564, 4500)
+2020-08-26 16:34:09,019 - temp: (33, 1564, 4500)
+2020-08-26 16:34:09,030 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201902_4.nc ======
+2020-08-26 16:34:09,198 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201802_5.nc ======
+2020-08-26 16:34:21,632 - sal: (33, 1564, 4500)
+2020-08-26 16:34:30,183 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201902_5.nc
+2020-08-26 16:34:30,440 - file: 201902_5.nc
+2020-08-26 16:34:30,466 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201802_6.nc
+2020-08-26 16:34:30,553 - file: 201802_6.nc
+2020-08-26 16:34:31,538 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201705_5.nc ======
+2020-08-26 16:34:49,617 - temp: (33, 1564, 4500)
+2020-08-26 16:34:49,636 - temp: (33, 1564, 4500)
+2020-08-26 16:35:00,852 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201705_6.nc
+2020-08-26 16:35:01,275 - file: 201705_6.nc
+2020-08-26 16:35:02,816 - sal: (33, 1564, 4500)
+2020-08-26 16:35:02,837 - sal: (33, 1564, 4500)
+2020-08-26 16:35:11,489 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201802_6.nc ======
+2020-08-26 16:35:11,581 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201902_5.nc ======
+2020-08-26 16:35:11,608 - temp: (33, 1564, 4500)
+2020-08-26 16:35:24,761 - sal: (33, 1564, 4500)
+2020-08-26 16:35:30,517 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201705_6.nc ======
+2020-08-26 16:35:33,393 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201803_1.nc
+2020-08-26 16:35:33,923 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201902_6.nc
+2020-08-26 16:35:35,881 - file: 201803_1.nc
+2020-08-26 16:35:35,882 - file: 201902_6.nc
+2020-08-26 16:35:47,594 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201706_1.nc
+2020-08-26 16:35:49,073 - file: 201706_1.nc
+2020-08-26 16:35:52,098 - temp: (33, 1564, 4500)
+2020-08-26 16:35:52,657 - temp: (33, 1564, 4500)
+2020-08-26 16:36:09,429 - temp: (33, 1564, 4500)
+2020-08-26 16:36:10,757 - sal: (33, 1564, 4500)
+2020-08-26 16:36:11,377 - sal: (33, 1564, 4500)
+2020-08-26 16:36:22,830 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201803_1.nc ======
+2020-08-26 16:36:23,413 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201902_6.nc ======
+2020-08-26 16:36:25,472 - sal: (33, 1564, 4500)
+2020-08-26 16:36:33,086 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201706_1.nc ======
+2020-08-26 16:36:34,955 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201903_1.nc
+2020-08-26 16:36:35,007 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201803_2.nc
+2020-08-26 16:36:35,019 - file: 201903_1.nc
+2020-08-26 16:36:35,075 - file: 201803_2.nc
+2020-08-26 16:36:48,379 - temp: (33, 1564, 4500)
+2020-08-26 16:36:48,411 - temp: (33, 1564, 4500)
+2020-08-26 16:36:48,425 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201706_2.nc
+2020-08-26 16:36:50,605 - file: 201706_2.nc
+2020-08-26 16:37:02,658 - sal: (33, 1564, 4500)
+2020-08-26 16:37:03,078 - sal: (33, 1564, 4500)
+2020-08-26 16:37:04,082 - temp: (33, 1564, 4500)
+2020-08-26 16:37:09,176 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201903_1.nc ======
+2020-08-26 16:37:09,366 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201803_2.nc ======
+2020-08-26 16:37:15,696 - sal: (33, 1564, 4500)
+2020-08-26 16:37:22,579 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201706_2.nc ======
+2020-08-26 16:37:25,382 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201903_2.nc
+2020-08-26 16:37:25,652 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201803_3.nc
+2020-08-26 16:37:25,907 - file: 201903_2.nc
+2020-08-26 16:37:25,971 - file: 201803_3.nc
+2020-08-26 16:37:36,696 - temp: (33, 1564, 4500)
+2020-08-26 16:37:37,500 - temp: (33, 1564, 4500)
+2020-08-26 16:37:38,794 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201706_3.nc
+2020-08-26 16:37:38,987 - file: 201706_3.nc
+2020-08-26 16:37:49,056 - sal: (33, 1564, 4500)
+2020-08-26 16:37:51,391 - sal: (33, 1564, 4500)
+2020-08-26 16:37:53,027 - temp: (33, 1564, 4500)
+2020-08-26 16:37:58,657 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201903_2.nc ======
+2020-08-26 16:37:59,698 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201803_3.nc ======
+2020-08-26 16:38:06,089 - sal: (33, 1564, 4500)
+2020-08-26 16:38:13,331 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201706_3.nc ======
+2020-08-26 16:38:15,006 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201903_3.nc
+2020-08-26 16:38:15,064 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201803_4.nc
+2020-08-26 16:38:15,155 - file: 201903_3.nc
+2020-08-26 16:38:15,235 - file: 201803_4.nc
+2020-08-26 16:38:24,528 - temp: (33, 1564, 4500)
+2020-08-26 16:38:24,923 - temp: (33, 1564, 4500)
+2020-08-26 16:38:30,347 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201706_4.nc
+2020-08-26 16:38:31,101 - file: 201706_4.nc
+2020-08-26 16:38:35,453 - sal: (33, 1564, 4500)
+2020-08-26 16:38:35,507 - sal: (33, 1564, 4500)
+2020-08-26 16:38:40,277 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201903_3.nc ======
+2020-08-26 16:38:40,457 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201803_4.nc ======
+2020-08-26 16:38:40,537 - temp: (33, 1564, 4500)
+2020-08-26 16:38:48,089 - sal: (33, 1564, 4500)
+2020-08-26 16:38:55,447 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201706_4.nc ======
+2020-08-26 16:38:55,568 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201903_4.nc
+2020-08-26 16:38:55,580 - file: 201903_4.nc
+2020-08-26 16:38:55,690 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201803_5.nc
+2020-08-26 16:38:55,709 - file: 201803_5.nc
+2020-08-26 16:39:10,667 - temp: (33, 1564, 4500)
+2020-08-26 16:39:11,529 - temp: (33, 1564, 4500)
+2020-08-26 16:39:20,994 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201706_5.nc
+2020-08-26 16:39:21,504 - file: 201706_5.nc
+2020-08-26 16:39:22,302 - sal: (33, 1564, 4500)
+2020-08-26 16:39:23,087 - sal: (33, 1564, 4500)
+2020-08-26 16:39:30,691 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201903_4.nc ======
+2020-08-26 16:39:31,836 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201803_5.nc ======
+2020-08-26 16:39:33,018 - temp: (33, 1564, 4500)
+2020-08-26 16:39:42,545 - sal: (33, 1564, 4500)
+2020-08-26 16:39:48,502 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201803_6.nc
+2020-08-26 16:39:48,557 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201903_5.nc
+2020-08-26 16:39:48,834 - file: 201803_6.nc
+2020-08-26 16:39:48,834 - file: 201903_5.nc
+2020-08-26 16:39:49,768 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201706_5.nc ======
+2020-08-26 16:39:59,809 - temp: (33, 1564, 4500)
+2020-08-26 16:39:59,984 - temp: (33, 1564, 4500)
+2020-08-26 16:40:11,417 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201706_6.nc
+2020-08-26 16:40:11,721 - file: 201706_6.nc
+2020-08-26 16:40:12,485 - sal: (33, 1564, 4500)
+2020-08-26 16:40:12,993 - sal: (33, 1564, 4500)
+2020-08-26 16:40:19,277 - temp: (33, 1564, 4500)
+2020-08-26 16:40:20,920 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201803_6.nc ======
+2020-08-26 16:40:20,928 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201903_5.nc ======
+2020-08-26 16:40:31,247 - sal: (33, 1564, 4500)
+2020-08-26 16:40:38,826 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201706_6.nc ======
+2020-08-26 16:40:40,780 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201903_6.nc
+2020-08-26 16:40:40,813 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201804_1.nc
+2020-08-26 16:40:40,841 - file: 201903_6.nc
+2020-08-26 16:40:40,892 - file: 201804_1.nc
+2020-08-26 16:40:55,130 - temp: (33, 1564, 4500)
+2020-08-26 16:40:55,397 - temp: (33, 1564, 4500)
+2020-08-26 16:41:00,175 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201707_1.nc
+2020-08-26 16:41:00,630 - file: 201707_1.nc
+2020-08-26 16:41:06,986 - sal: (33, 1564, 4500)
+2020-08-26 16:41:07,151 - sal: (33, 1564, 4500)
+2020-08-26 16:41:11,159 - temp: (33, 1564, 4500)
+2020-08-26 16:41:15,191 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201903_6.nc ======
+2020-08-26 16:41:15,339 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201804_1.nc ======
+2020-08-26 16:41:21,517 - sal: (33, 1564, 4500)
+2020-08-26 16:41:29,038 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201707_1.nc ======
+2020-08-26 16:41:30,433 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201804_2.nc
+2020-08-26 16:41:30,434 - file: 201804_2.nc
+2020-08-26 16:41:30,443 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201904_1.nc
+2020-08-26 16:41:30,452 - file: 201904_1.nc
+2020-08-26 16:41:42,949 - temp: (33, 1564, 4500)
+2020-08-26 16:41:43,044 - temp: (33, 1564, 4500)
+2020-08-26 16:41:49,178 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201707_2.nc
+2020-08-26 16:41:50,587 - file: 201707_2.nc
+2020-08-26 16:41:53,652 - sal: (33, 1564, 4500)
+2020-08-26 16:41:54,066 - sal: (33, 1564, 4500)
+2020-08-26 16:41:59,893 - temp: (33, 1564, 4500)
+2020-08-26 16:42:06,537 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201904_1.nc ======
+2020-08-26 16:42:08,822 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201804_2.nc ======
+2020-08-26 16:42:15,895 - sal: (33, 1564, 4500)
+2020-08-26 16:42:18,368 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201904_2.nc
+2020-08-26 16:42:18,372 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201804_3.nc
+2020-08-26 16:42:18,401 - file: 201904_2.nc
+2020-08-26 16:42:18,409 - file: 201804_3.nc
+2020-08-26 16:42:20,406 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201707_2.nc ======
+2020-08-26 16:42:30,639 - temp: (33, 1564, 4500)
+2020-08-26 16:42:34,177 - temp: (33, 1564, 4500)
+2020-08-26 16:42:34,433 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201707_3.nc
+2020-08-26 16:42:34,441 - file: 201707_3.nc
+2020-08-26 16:42:43,236 - sal: (33, 1564, 4500)
+2020-08-26 16:42:47,531 - temp: (33, 1564, 4500)
+2020-08-26 16:42:48,276 - sal: (33, 1564, 4500)
+2020-08-26 16:42:54,487 - sal: (33, 1564, 4500)
+2020-08-26 16:42:55,251 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201904_2.nc ======
+2020-08-26 16:42:56,960 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201804_3.nc ======
+2020-08-26 16:43:01,689 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201707_3.nc ======
+2020-08-26 16:43:05,485 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201904_3.nc
+2020-08-26 16:43:05,646 - file: 201904_3.nc
+2020-08-26 16:43:07,346 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201804_4.nc
+2020-08-26 16:43:07,460 - file: 201804_4.nc
+2020-08-26 16:43:18,264 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201707_4.nc
+2020-08-26 16:43:20,909 - file: 201707_4.nc
+2020-08-26 16:43:22,972 - temp: (33, 1564, 4500)
+2020-08-26 16:43:23,428 - temp: (33, 1564, 4500)
+2020-08-26 16:43:35,055 - temp: (33, 1564, 4500)
+2020-08-26 16:43:40,597 - sal: (33, 1564, 4500)
+2020-08-26 16:43:41,668 - sal: (33, 1564, 4500)
+2020-08-26 16:43:49,204 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201804_4.nc ======
+2020-08-26 16:43:49,710 - sal: (33, 1564, 4500)
+2020-08-26 16:43:51,161 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201904_3.nc ======
+2020-08-26 16:43:56,548 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201707_4.nc ======
+2020-08-26 16:44:05,821 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201804_5.nc
+2020-08-26 16:44:05,939 - file: 201804_5.nc
+2020-08-26 16:44:08,774 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201904_4.nc
+2020-08-26 16:44:09,245 - file: 201904_4.nc
+2020-08-26 16:44:18,967 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201707_5.nc
+2020-08-26 16:44:21,396 - file: 201707_5.nc
+2020-08-26 16:44:29,012 - temp: (33, 1564, 4500)
+2020-08-26 16:44:29,016 - temp: (33, 1564, 4500)
+2020-08-26 16:44:47,157 - temp: (33, 1564, 4500)
+2020-08-26 16:44:53,585 - sal: (33, 1564, 4500)
+2020-08-26 16:44:55,246 - sal: (33, 1564, 4500)
+2020-08-26 16:45:01,278 - sal: (33, 1564, 4500)
+2020-08-26 16:45:03,135 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201804_5.nc ======
+2020-08-26 16:45:04,189 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201904_4.nc ======
+2020-08-26 16:45:08,310 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201707_5.nc ======
+2020-08-26 16:45:19,250 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201804_6.nc
+2020-08-26 16:45:19,375 - file: 201804_6.nc
+2020-08-26 16:45:21,783 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201904_5.nc
+2020-08-26 16:45:21,944 - file: 201904_5.nc
+2020-08-26 16:45:28,092 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201707_6.nc
+2020-08-26 16:45:28,823 - file: 201707_6.nc
+2020-08-26 16:45:34,962 - temp: (33, 1564, 4500)
+2020-08-26 16:45:41,351 - temp: (33, 1564, 4500)
+2020-08-26 16:45:44,363 - temp: (33, 1564, 4500)
+2020-08-26 16:45:52,009 - sal: (33, 1564, 4500)
+2020-08-26 16:45:54,173 - sal: (33, 1564, 4500)
+2020-08-26 16:45:55,716 - sal: (33, 1564, 4500)
+2020-08-26 16:46:02,112 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201707_6.nc ======
+2020-08-26 16:46:03,441 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201804_6.nc ======
+2020-08-26 16:46:04,257 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201904_5.nc ======
+2020-08-26 16:46:13,719 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201708_1.nc
+2020-08-26 16:46:14,283 - file: 201708_1.nc
+2020-08-26 16:46:18,426 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201805_1.nc
+2020-08-26 16:46:18,548 - file: 201805_1.nc
+2020-08-26 16:46:20,521 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201904_6.nc
+2020-08-26 16:46:21,169 - file: 201904_6.nc
+2020-08-26 16:46:23,175 - temp: (33, 1564, 4500)
+2020-08-26 16:46:35,748 - sal: (33, 1564, 4500)
+2020-08-26 16:46:36,896 - temp: (33, 1564, 4500)
+2020-08-26 16:46:39,671 - temp: (33, 1564, 4500)
+2020-08-26 16:46:41,436 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201708_1.nc ======
+2020-08-26 16:46:51,361 - sal: (33, 1564, 4500)
+2020-08-26 16:46:52,038 - sal: (33, 1564, 4500)
+2020-08-26 16:46:52,893 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201708_2.nc
+2020-08-26 16:46:52,893 - file: 201708_2.nc
+2020-08-26 16:46:59,184 - temp: (33, 1564, 4500)
+2020-08-26 16:47:00,328 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201904_6.nc ======
+2020-08-26 16:47:00,922 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201805_1.nc ======
+2020-08-26 16:47:05,507 - sal: (33, 1564, 4500)
+2020-08-26 16:47:14,834 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201805_2.nc
+2020-08-26 16:47:14,835 - file: 201805_2.nc
+2020-08-26 16:47:14,837 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201905_1.nc
+2020-08-26 16:47:14,848 - file: 201905_1.nc
+2020-08-26 16:47:19,251 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201708_2.nc ======
+2020-08-26 16:47:28,829 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201708_3.nc
+2020-08-26 16:47:28,830 - file: 201708_3.nc
+2020-08-26 16:47:30,090 - temp: (33, 1564, 4500)
+2020-08-26 16:47:30,254 - temp: (33, 1564, 4500)
+2020-08-26 16:47:36,489 - temp: (33, 1564, 4500)
+2020-08-26 16:47:45,479 - sal: (33, 1564, 4500)
+2020-08-26 16:47:45,954 - sal: (33, 1564, 4500)
+2020-08-26 16:47:46,459 - sal: (33, 1564, 4500)
+2020-08-26 16:47:48,268 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201805_2.nc ======
+2020-08-26 16:47:48,469 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201905_1.nc ======
+2020-08-26 16:47:52,792 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201708_3.nc ======
+2020-08-26 16:48:02,622 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201805_3.nc
+2020-08-26 16:48:03,099 - file: 201805_3.nc
+2020-08-26 16:48:04,943 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201905_2.nc
+2020-08-26 16:48:05,132 - file: 201905_2.nc
+2020-08-26 16:48:07,232 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201708_4.nc
+2020-08-26 16:48:07,629 - file: 201708_4.nc
+2020-08-26 16:48:14,681 - temp: (33, 1564, 4500)
+2020-08-26 16:48:17,595 - temp: (33, 1564, 4500)
+2020-08-26 16:48:23,266 - sal: (33, 1564, 4500)
+2020-08-26 16:48:23,391 - temp: (33, 1564, 4500)
+2020-08-26 16:48:30,276 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201805_3.nc ======
+2020-08-26 16:48:30,628 - sal: (33, 1564, 4500)
+2020-08-26 16:48:32,003 - sal: (33, 1564, 4500)
+2020-08-26 16:48:38,222 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201805_4.nc
+2020-08-26 16:48:38,586 - file: 201805_4.nc
+2020-08-26 16:48:38,930 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201905_2.nc ======
+2020-08-26 16:48:45,175 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201708_4.nc ======
+2020-08-26 16:48:45,735 - temp: (33, 1564, 4500)
+2020-08-26 16:48:50,919 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201905_3.nc
+2020-08-26 16:48:54,415 - file: 201905_3.nc
+2020-08-26 16:48:55,185 - sal: (33, 1564, 4500)
+2020-08-26 16:48:57,074 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201708_5.nc
+2020-08-26 16:48:57,274 - file: 201708_5.nc
+2020-08-26 16:49:02,485 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201805_4.nc ======
+2020-08-26 16:49:04,925 - temp: (33, 1564, 4500)
+2020-08-26 16:49:06,877 - temp: (33, 1564, 4500)
+2020-08-26 16:49:12,891 - sal: (33, 1564, 4500)
+2020-08-26 16:49:15,646 - sal: (33, 1564, 4500)
+2020-08-26 16:49:15,952 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201805_5.nc
+2020-08-26 16:49:16,041 - file: 201805_5.nc
+2020-08-26 16:49:21,360 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201905_3.nc ======
+2020-08-26 16:49:22,430 - temp: (33, 1564, 4500)
+2020-08-26 16:49:24,228 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201708_5.nc ======
+2020-08-26 16:49:28,096 - sal: (33, 1564, 4500)
+2020-08-26 16:49:32,051 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201905_4.nc
+2020-08-26 16:49:32,343 - file: 201905_4.nc
+2020-08-26 16:49:34,497 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201805_5.nc ======
+2020-08-26 16:49:36,487 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201708_6.nc
+2020-08-26 16:49:36,539 - file: 201708_6.nc
+2020-08-26 16:49:39,002 - temp: (33, 1564, 4500)
+2020-08-26 16:49:45,914 - temp: (33, 1564, 4500)
+2020-08-26 16:49:47,954 - sal: (33, 1564, 4500)
+2020-08-26 16:49:49,108 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201805_6.nc
+2020-08-26 16:49:49,541 - file: 201805_6.nc
+2020-08-26 16:49:54,304 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201905_4.nc ======
+2020-08-26 16:49:57,633 - sal: (33, 1564, 4500)
+2020-08-26 16:50:01,299 - temp: (33, 1564, 4500)
+2020-08-26 16:50:05,684 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201708_6.nc ======
+2020-08-26 16:50:07,503 - sal: (33, 1564, 4500)
+2020-08-26 16:50:07,852 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201905_5.nc
+2020-08-26 16:50:07,853 - file: 201905_5.nc
+2020-08-26 16:50:13,903 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201805_6.nc ======
+2020-08-26 16:50:15,624 - temp: (33, 1564, 4500)
+2020-08-26 16:50:18,455 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201709_1.nc
+2020-08-26 16:50:18,609 - file: 201709_1.nc
+2020-08-26 16:50:22,251 - sal: (33, 1564, 4500)
+2020-08-26 16:50:26,472 - temp: (33, 1564, 4500)
+2020-08-26 16:50:28,655 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201806_1.nc
+2020-08-26 16:50:28,901 - file: 201806_1.nc
+2020-08-26 16:50:28,998 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201905_5.nc ======
+2020-08-26 16:50:36,705 - sal: (33, 1564, 4500)
+2020-08-26 16:50:41,282 - temp: (33, 1564, 4500)
+2020-08-26 16:50:45,495 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201905_6.nc
+2020-08-26 16:50:45,496 - file: 201905_6.nc
+2020-08-26 16:50:46,696 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201709_1.nc ======
+2020-08-26 16:50:48,451 - sal: (33, 1564, 4500)
+2020-08-26 16:50:51,646 - temp: (33, 1564, 4500)
+2020-08-26 16:50:54,245 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201806_1.nc ======
+2020-08-26 16:50:58,595 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201709_2.nc
+2020-08-26 16:50:58,633 - file: 201709_2.nc
+2020-08-26 16:50:59,246 - sal: (33, 1564, 4500)
+2020-08-26 16:51:05,441 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201905_6.nc ======
+2020-08-26 16:51:06,614 - temp: (33, 1564, 4500)
+2020-08-26 16:51:08,656 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201806_2.nc
+2020-08-26 16:51:09,436 - file: 201806_2.nc
+2020-08-26 16:51:14,395 - sal: (33, 1564, 4500)
+2020-08-26 16:51:19,724 - temp: (33, 1564, 4500)
+2020-08-26 16:51:21,449 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201709_2.nc ======
+2020-08-26 16:51:23,785 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201906_1.nc
+2020-08-26 16:51:24,467 - file: 201906_1.nc
+2020-08-26 16:51:30,216 - sal: (33, 1564, 4500)
+2020-08-26 16:51:34,368 - temp: (33, 1564, 4500)
+2020-08-26 16:51:36,375 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201709_3.nc
+2020-08-26 16:51:36,422 - file: 201709_3.nc
+2020-08-26 16:51:39,116 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201806_2.nc ======
+2020-08-26 16:51:41,273 - sal: (33, 1564, 4500)
+2020-08-26 16:51:42,792 - temp: (33, 1564, 4500)
+2020-08-26 16:51:50,023 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201906_1.nc ======
+2020-08-26 16:51:50,451 - sal: (33, 1564, 4500)
+2020-08-26 16:51:51,939 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201806_3.nc
+2020-08-26 16:51:52,042 - file: 201806_3.nc
+2020-08-26 16:51:57,460 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201709_3.nc ======
+2020-08-26 16:52:03,040 - temp: (33, 1564, 4500)
+2020-08-26 16:52:04,611 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201906_2.nc
+2020-08-26 16:52:04,928 - file: 201906_2.nc
+2020-08-26 16:52:14,489 - sal: (33, 1564, 4500)
+2020-08-26 16:52:16,995 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201709_4.nc
+2020-08-26 16:52:17,236 - file: 201709_4.nc
+2020-08-26 16:52:17,855 - temp: (33, 1564, 4500)
+2020-08-26 16:52:21,995 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201806_3.nc ======
+2020-08-26 16:52:25,885 - temp: (33, 1564, 4500)
+2020-08-26 16:52:26,603 - sal: (33, 1564, 4500)
+2020-08-26 16:52:34,428 - sal: (33, 1564, 4500)
+2020-08-26 16:52:36,669 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201906_2.nc ======
+2020-08-26 16:52:37,921 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201806_4.nc
+2020-08-26 16:52:37,922 - file: 201806_4.nc
+2020-08-26 16:52:41,148 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201709_4.nc ======
+2020-08-26 16:52:52,503 - temp: (33, 1564, 4500)
+2020-08-26 16:52:58,810 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201906_3.nc
+2020-08-26 16:52:59,649 - file: 201906_3.nc
+2020-08-26 16:53:06,395 - sal: (33, 1564, 4500)
+2020-08-26 16:53:07,067 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201709_5.nc
+2020-08-26 16:53:07,252 - file: 201709_5.nc
+2020-08-26 16:53:10,203 - temp: (33, 1564, 4500)
+2020-08-26 16:53:14,922 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201806_4.nc ======
+2020-08-26 16:53:18,254 - temp: (33, 1564, 4500)
+2020-08-26 16:53:21,037 - sal: (33, 1564, 4500)
+2020-08-26 16:53:27,741 - sal: (33, 1564, 4500)
+2020-08-26 16:53:29,774 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201906_3.nc ======
+2020-08-26 16:53:33,018 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201806_5.nc
+2020-08-26 16:53:33,915 - file: 201806_5.nc
+2020-08-26 16:53:34,138 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201709_5.nc ======
+2020-08-26 16:53:48,173 - temp: (33, 1564, 4500)
+2020-08-26 16:53:50,505 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201906_4.nc
+2020-08-26 16:53:50,673 - file: 201906_4.nc
+2020-08-26 16:53:54,165 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201709_6.nc
+2020-08-26 16:53:54,441 - file: 201709_6.nc
+2020-08-26 16:53:55,825 - sal: (33, 1564, 4500)
+2020-08-26 16:54:00,090 - temp: (33, 1564, 4500)
+2020-08-26 16:54:02,677 - temp: (33, 1564, 4500)
+2020-08-26 16:54:03,095 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201806_5.nc ======
+2020-08-26 16:54:07,000 - sal: (33, 1564, 4500)
+2020-08-26 16:54:09,670 - sal: (33, 1564, 4500)
+2020-08-26 16:54:13,544 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201906_4.nc ======
+2020-08-26 16:54:14,708 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201709_6.nc ======
+2020-08-26 16:54:15,992 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201806_6.nc
+2020-08-26 16:54:16,000 - file: 201806_6.nc
+2020-08-26 16:54:25,311 - temp: (33, 1564, 4500)
+2020-08-26 16:54:29,712 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201906_5.nc
+2020-08-26 16:54:30,032 - file: 201906_5.nc
+2020-08-26 16:54:30,428 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201710_1.nc
+2020-08-26 16:54:30,864 - file: 201710_1.nc
+2020-08-26 16:54:31,601 - sal: (33, 1564, 4500)
+2020-08-26 16:54:36,545 - temp: (33, 1564, 4500)
+2020-08-26 16:54:37,696 - temp: (33, 1564, 4500)
+2020-08-26 16:54:37,801 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201806_6.nc ======
+2020-08-26 16:54:44,551 - sal: (33, 1564, 4500)
+2020-08-26 16:54:45,435 - sal: (33, 1564, 4500)
+2020-08-26 16:54:50,672 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201906_5.nc ======
+2020-08-26 16:54:51,018 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201807_1.nc
+2020-08-26 16:54:51,020 - file: 201807_1.nc
+2020-08-26 16:54:51,413 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201710_1.nc ======
+2020-08-26 16:55:00,006 - temp: (33, 1564, 4500)
+2020-08-26 16:55:06,258 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201906_6.nc
+2020-08-26 16:55:06,345 - file: 201906_6.nc
+2020-08-26 16:55:06,568 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201710_2.nc
+2020-08-26 16:55:06,627 - file: 201710_2.nc
+2020-08-26 16:55:08,215 - sal: (33, 1564, 4500)
+2020-08-26 16:55:12,321 - temp: (33, 1564, 4500)
+2020-08-26 16:55:13,250 - temp: (33, 1564, 4500)
+2020-08-26 16:55:15,055 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201807_1.nc ======
+2020-08-26 16:55:19,868 - sal: (33, 1564, 4500)
+2020-08-26 16:55:23,136 - sal: (33, 1564, 4500)
+2020-08-26 16:55:26,613 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201710_2.nc ======
+2020-08-26 16:55:28,201 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201807_2.nc
+2020-08-26 16:55:28,290 - file: 201807_2.nc
+2020-08-26 16:55:29,755 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201906_6.nc ======
+2020-08-26 16:55:36,674 - temp: (33, 1564, 4500)
+2020-08-26 16:55:38,663 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201710_3.nc
+2020-08-26 16:55:38,888 - file: 201710_3.nc
+2020-08-26 16:55:43,187 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201907_1.nc
+2020-08-26 16:55:43,219 - file: 201907_1.nc
+2020-08-26 16:55:43,923 - sal: (33, 1564, 4500)
+2020-08-26 16:55:46,147 - temp: (33, 1564, 4500)
+2020-08-26 16:55:50,825 - temp: (33, 1564, 4500)
+2020-08-26 16:55:52,441 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201807_2.nc ======
+2020-08-26 16:55:53,770 - sal: (33, 1564, 4500)
+2020-08-26 16:55:58,607 - sal: (33, 1564, 4500)
+2020-08-26 16:56:01,166 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201710_3.nc ======
+2020-08-26 16:56:03,662 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201807_3.nc
+2020-08-26 16:56:04,041 - file: 201807_3.nc
+2020-08-26 16:56:05,098 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201907_1.nc ======
+2020-08-26 16:56:12,897 - temp: (33, 1564, 4500)
+2020-08-26 16:56:13,592 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201710_4.nc
+2020-08-26 16:56:13,809 - file: 201710_4.nc
+2020-08-26 16:56:21,098 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201907_2.nc
+2020-08-26 16:56:21,222 - file: 201907_2.nc
+2020-08-26 16:56:21,371 - sal: (33, 1564, 4500)
+2020-08-26 16:56:22,294 - temp: (33, 1564, 4500)
+2020-08-26 16:56:26,778 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201807_3.nc ======
+2020-08-26 16:56:30,717 - temp: (33, 1564, 4500)
+2020-08-26 16:56:31,211 - sal: (33, 1564, 4500)
+2020-08-26 16:56:37,611 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201710_4.nc ======
+2020-08-26 16:56:40,358 - sal: (33, 1564, 4500)
+2020-08-26 16:56:43,679 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201807_4.nc
+2020-08-26 16:56:43,962 - file: 201807_4.nc
+2020-08-26 16:56:46,267 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201907_2.nc ======
+2020-08-26 16:56:49,905 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201710_5.nc
+2020-08-26 16:56:50,284 - file: 201710_5.nc
+2020-08-26 16:56:51,226 - temp: (33, 1564, 4500)
+2020-08-26 16:56:58,362 - sal: (33, 1564, 4500)
+2020-08-26 16:56:58,908 - temp: (33, 1564, 4500)
+2020-08-26 16:57:00,615 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201907_3.nc
+2020-08-26 16:57:00,827 - file: 201907_3.nc
+2020-08-26 16:57:04,897 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201807_4.nc ======
+2020-08-26 16:57:09,247 - temp: (33, 1564, 4500)
+2020-08-26 16:57:10,069 - sal: (33, 1564, 4500)
+2020-08-26 16:57:16,711 - sal: (33, 1564, 4500)
+2020-08-26 16:57:17,423 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201807_5.nc
+2020-08-26 16:57:17,799 - file: 201807_5.nc
+2020-08-26 16:57:18,230 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201710_5.nc ======
+2020-08-26 16:57:25,513 - temp: (33, 1564, 4500)
+2020-08-26 16:57:25,633 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201907_3.nc ======
+2020-08-26 16:57:34,450 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201710_6.nc
+2020-08-26 16:57:34,668 - file: 201710_6.nc
+2020-08-26 16:57:35,286 - sal: (33, 1564, 4500)
+2020-08-26 16:57:40,064 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201907_4.nc
+2020-08-26 16:57:40,319 - file: 201907_4.nc
+2020-08-26 16:57:41,605 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201807_5.nc ======
+2020-08-26 16:57:45,369 - temp: (33, 1564, 4500)
+2020-08-26 16:57:53,598 - sal: (33, 1564, 4500)
+2020-08-26 16:57:54,275 - temp: (33, 1564, 4500)
+2020-08-26 16:57:57,949 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201807_6.nc
+2020-08-26 16:57:57,961 - file: 201807_6.nc
+2020-08-26 16:58:00,468 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201710_6.nc ======
+2020-08-26 16:58:04,388 - sal: (33, 1564, 4500)
+2020-08-26 16:58:07,391 - temp: (33, 1564, 4500)
+2020-08-26 16:58:11,477 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201711_1.nc
+2020-08-26 16:58:11,520 - file: 201711_1.nc
+2020-08-26 16:58:12,905 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201907_4.nc ======
+2020-08-26 16:58:14,954 - sal: (33, 1564, 4500)
+2020-08-26 16:58:18,954 - temp: (33, 1564, 4500)
+2020-08-26 16:58:22,818 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201807_6.nc ======
+2020-08-26 16:58:26,185 - sal: (33, 1564, 4500)
+2020-08-26 16:58:26,768 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201907_5.nc
+2020-08-26 16:58:26,873 - file: 201907_5.nc
+2020-08-26 16:58:33,906 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201711_1.nc ======
+2020-08-26 16:58:36,016 - temp: (33, 1564, 4500)
+2020-08-26 16:58:37,116 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201808_1.nc
+2020-08-26 16:58:37,405 - file: 201808_1.nc
+2020-08-26 16:58:44,815 - sal: (33, 1564, 4500)
+2020-08-26 16:58:47,342 - temp: (33, 1564, 4500)
+2020-08-26 16:58:48,477 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201711_2.nc
+2020-08-26 16:58:48,507 - file: 201711_2.nc
+2020-08-26 16:58:52,248 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201907_5.nc ======
+2020-08-26 16:58:54,380 - sal: (33, 1564, 4500)
+2020-08-26 16:58:57,496 - temp: (33, 1564, 4500)
+2020-08-26 16:59:00,428 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201808_1.nc ======
+2020-08-26 16:59:05,522 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201907_6.nc
+2020-08-26 16:59:05,543 - sal: (33, 1564, 4500)
+2020-08-26 16:59:05,691 - file: 201907_6.nc
+2020-08-26 16:59:13,471 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201711_2.nc ======
+2020-08-26 16:59:13,763 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201808_2.nc
+2020-08-26 16:59:14,049 - temp: (33, 1564, 4500)
+2020-08-26 16:59:14,178 - file: 201808_2.nc
+2020-08-26 16:59:22,053 - sal: (33, 1564, 4500)
+2020-08-26 16:59:23,077 - temp: (33, 1564, 4500)
+2020-08-26 16:59:25,569 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201711_3.nc
+2020-08-26 16:59:25,799 - file: 201711_3.nc
+2020-08-26 16:59:29,157 - sal: (33, 1564, 4500)
+2020-08-26 16:59:30,142 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201907_6.nc ======
+2020-08-26 16:59:33,204 - temp: (33, 1564, 4500)
+2020-08-26 16:59:37,196 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201808_2.nc ======
+2020-08-26 16:59:40,083 - sal: (33, 1564, 4500)
+2020-08-26 16:59:42,589 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201908_1.nc
+2020-08-26 16:59:42,743 - file: 201908_1.nc
+2020-08-26 16:59:47,426 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201711_3.nc ======
+2020-08-26 16:59:49,760 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201808_3.nc
+2020-08-26 16:59:49,937 - file: 201808_3.nc
+2020-08-26 16:59:51,259 - temp: (33, 1564, 4500)
+2020-08-26 16:59:58,642 - temp: (33, 1564, 4500)
+2020-08-26 16:59:59,402 - sal: (33, 1564, 4500)
+2020-08-26 17:00:01,885 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201711_4.nc
+2020-08-26 17:00:02,104 - file: 201711_4.nc
+2020-08-26 17:00:06,226 - sal: (33, 1564, 4500)
+2020-08-26 17:00:07,634 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201908_1.nc ======
+2020-08-26 17:00:10,052 - temp: (33, 1564, 4500)
+2020-08-26 17:00:13,147 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201808_3.nc ======
+2020-08-26 17:00:16,663 - sal: (33, 1564, 4500)
+2020-08-26 17:00:22,526 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201908_2.nc
+2020-08-26 17:00:27,911 - file: 201908_2.nc
+2020-08-26 17:00:29,612 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201808_4.nc
+2020-08-26 17:00:29,759 - file: 201808_4.nc
+2020-08-26 17:00:33,990 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201711_4.nc ======
+2020-08-26 17:00:38,864 - temp: (33, 1564, 4500)
+2020-08-26 17:00:40,434 - temp: (33, 1564, 4500)
+2020-08-26 17:00:49,891 - sal: (33, 1564, 4500)
+2020-08-26 17:00:51,441 - sal: (33, 1564, 4500)
+2020-08-26 17:00:52,613 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201711_5.nc
+2020-08-26 17:00:52,928 - file: 201711_5.nc
+2020-08-26 17:00:58,364 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201908_2.nc ======
+2020-08-26 17:00:59,438 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201808_4.nc ======
+2020-08-26 17:01:04,069 - temp: (33, 1564, 4500)
+2020-08-26 17:01:15,322 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201908_3.nc
+2020-08-26 17:01:16,310 - file: 201908_3.nc
+2020-08-26 17:01:16,802 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201808_5.nc
+2020-08-26 17:01:17,170 - file: 201808_5.nc
+2020-08-26 17:01:26,536 - sal: (33, 1564, 4500)
+2020-08-26 17:01:30,103 - temp: (33, 1564, 4500)
+2020-08-26 17:01:30,400 - temp: (33, 1564, 4500)
+2020-08-26 17:01:43,090 - sal: (33, 1564, 4500)
+2020-08-26 17:01:44,707 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201711_5.nc ======
+2020-08-26 17:01:44,789 - sal: (33, 1564, 4500)
+2020-08-26 17:01:50,203 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201908_3.nc ======
+2020-08-26 17:01:51,951 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201808_5.nc ======
+2020-08-26 17:01:58,006 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201711_6.nc
+2020-08-26 17:01:58,300 - file: 201711_6.nc
+2020-08-26 17:02:02,682 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201908_4.nc
+2020-08-26 17:02:02,723 - file: 201908_4.nc
+2020-08-26 17:02:03,886 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201808_6.nc
+2020-08-26 17:02:03,945 - file: 201808_6.nc
+2020-08-26 17:02:10,843 - temp: (33, 1564, 4500)
+2020-08-26 17:02:11,956 - temp: (33, 1564, 4500)
+2020-08-26 17:02:12,880 - temp: (33, 1564, 4500)
+2020-08-26 17:02:21,959 - sal: (33, 1564, 4500)
+2020-08-26 17:02:22,609 - sal: (33, 1564, 4500)
+2020-08-26 17:02:23,227 - sal: (33, 1564, 4500)
+2020-08-26 17:02:30,532 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201908_4.nc ======
+2020-08-26 17:02:30,642 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201808_6.nc ======
+2020-08-26 17:02:37,249 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201711_6.nc ======
+2020-08-26 17:02:40,840 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201908_5.nc
+2020-08-26 17:02:40,850 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201809_1.nc
+2020-08-26 17:02:40,914 - file: 201908_5.nc
+2020-08-26 17:02:40,925 - file: 201809_1.nc
+2020-08-26 17:02:45,885 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201712_1.nc
+2020-08-26 17:02:46,572 - file: 201712_1.nc
+2020-08-26 17:02:53,233 - temp: (33, 1564, 4500)
+2020-08-26 17:02:55,118 - temp: (33, 1564, 4500)
+2020-08-26 17:03:05,787 - sal: (33, 1564, 4500)
+2020-08-26 17:03:05,944 - temp: (33, 1564, 4500)
+2020-08-26 17:03:06,541 - sal: (33, 1564, 4500)
+2020-08-26 17:03:13,175 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201908_5.nc ======
+2020-08-26 17:03:14,232 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201809_1.nc ======
+2020-08-26 17:03:16,250 - sal: (33, 1564, 4500)
+2020-08-26 17:03:21,094 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201908_6.nc
+2020-08-26 17:03:21,138 - file: 201908_6.nc
+2020-08-26 17:03:23,623 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201809_2.nc
+2020-08-26 17:03:23,737 - file: 201809_2.nc
+2020-08-26 17:03:29,582 - temp: (33, 1564, 4500)
+2020-08-26 17:03:34,585 - temp: (33, 1564, 4500)
+2020-08-26 17:03:38,729 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201712_1.nc ======
+2020-08-26 17:03:39,069 - sal: (33, 1564, 4500)
+2020-08-26 17:03:43,666 - sal: (33, 1564, 4500)
+2020-08-26 17:03:46,966 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201908_6.nc ======
+2020-08-26 17:03:49,543 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201712_2.nc
+2020-08-26 17:03:49,583 - file: 201712_2.nc
+2020-08-26 17:03:51,562 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201809_2.nc ======
+2020-08-26 17:03:52,208 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201909_1.nc
+2020-08-26 17:03:52,247 - file: 201909_1.nc
+2020-08-26 17:03:59,322 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201809_3.nc
+2020-08-26 17:03:59,323 - file: 201809_3.nc
+2020-08-26 17:03:59,354 - temp: (33, 1564, 4500)
+2020-08-26 17:04:06,635 - sal: (33, 1564, 4500)
+2020-08-26 17:04:07,979 - temp: (33, 1564, 4500)
+2020-08-26 17:04:12,073 - temp: (33, 1564, 4500)
+2020-08-26 17:04:14,057 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201909_1.nc ======
+2020-08-26 17:04:20,515 - sal: (33, 1564, 4500)
+2020-08-26 17:04:23,306 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201909_2.nc
+2020-08-26 17:04:23,523 - file: 201909_2.nc
+2020-08-26 17:04:24,419 - sal: (33, 1564, 4500)
+2020-08-26 17:04:28,969 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201809_3.nc ======
+2020-08-26 17:04:29,436 - temp: (33, 1564, 4500)
+2020-08-26 17:04:35,046 - sal: (33, 1564, 4500)
+2020-08-26 17:04:35,738 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201809_4.nc
+2020-08-26 17:04:35,757 - file: 201809_4.nc
+2020-08-26 17:04:42,776 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201909_2.nc ======
+2020-08-26 17:04:43,029 - temp: (33, 1564, 4500)
+2020-08-26 17:04:50,529 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201712_2.nc ======
+2020-08-26 17:04:50,729 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201909_3.nc
+2020-08-26 17:04:50,738 - file: 201909_3.nc
+2020-08-26 17:04:51,821 - sal: (33, 1564, 4500)
+2020-08-26 17:04:58,479 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201712_3.nc
+2020-08-26 17:04:58,505 - file: 201712_3.nc
+2020-08-26 17:05:00,621 - temp: (33, 1564, 4500)
+2020-08-26 17:05:00,690 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201809_4.nc ======
+2020-08-26 17:05:09,130 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201809_5.nc
+2020-08-26 17:05:09,131 - file: 201809_5.nc
+2020-08-26 17:05:12,069 - sal: (33, 1564, 4500)
+2020-08-26 17:05:17,529 - temp: (33, 1564, 4500)
+2020-08-26 17:05:18,508 - temp: (33, 1564, 4500)
+2020-08-26 17:05:19,848 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201909_3.nc ======
+2020-08-26 17:05:30,052 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201909_4.nc
+2020-08-26 17:05:30,155 - file: 201909_4.nc
+2020-08-26 17:05:33,825 - sal: (33, 1564, 4500)
+2020-08-26 17:05:36,608 - sal: (33, 1564, 4500)
+2020-08-26 17:05:39,056 - temp: (33, 1564, 4500)
+2020-08-26 17:05:41,877 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201809_5.nc ======
+2020-08-26 17:05:45,044 - sal: (33, 1564, 4500)
+2020-08-26 17:05:47,800 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201809_6.nc
+2020-08-26 17:05:47,833 - file: 201809_6.nc
+2020-08-26 17:05:52,807 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201909_4.nc ======
+2020-08-26 17:05:54,647 - temp: (33, 1564, 4500)
+2020-08-26 17:05:58,969 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201909_5.nc
+2020-08-26 17:05:58,991 - file: 201909_5.nc
+2020-08-26 17:05:59,399 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201712_3.nc ======
+2020-08-26 17:06:03,781 - sal: (33, 1564, 4500)
+2020-08-26 17:06:06,019 - temp: (33, 1564, 4500)
+2020-08-26 17:06:07,546 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201712_4.nc
+2020-08-26 17:06:07,616 - file: 201712_4.nc
+2020-08-26 17:06:11,511 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201809_6.nc ======
+2020-08-26 17:06:17,827 - sal: (33, 1564, 4500)
+2020-08-26 17:06:20,883 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201810_1.nc
+2020-08-26 17:06:20,884 - file: 201810_1.nc
+2020-08-26 17:06:21,659 - temp: (33, 1564, 4500)
+2020-08-26 17:06:25,279 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201909_5.nc ======
+2020-08-26 17:06:32,535 - temp: (33, 1564, 4500)
+2020-08-26 17:06:34,665 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201909_6.nc
+2020-08-26 17:06:34,666 - file: 201909_6.nc
+2020-08-26 17:06:37,236 - sal: (33, 1564, 4500)
+2020-08-26 17:06:40,057 - sal: (33, 1564, 4500)
+2020-08-26 17:06:43,312 - temp: (33, 1564, 4500)
+2020-08-26 17:06:50,056 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201712_4.nc ======
+2020-08-26 17:06:52,144 - sal: (33, 1564, 4500)
+2020-08-26 17:06:52,454 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201810_1.nc ======
+2020-08-26 17:06:56,739 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201712_5.nc
+2020-08-26 17:06:57,204 - file: 201712_5.nc
+2020-08-26 17:06:59,235 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201810_2.nc
+2020-08-26 17:06:59,312 - file: 201810_2.nc
+2020-08-26 17:06:59,628 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201909_6.nc ======
+2020-08-26 17:07:10,413 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201910_1.nc
+2020-08-26 17:07:10,414 - file: 201910_1.nc
+2020-08-26 17:07:12,238 - temp: (33, 1564, 4500)
+2020-08-26 17:07:17,187 - temp: (33, 1564, 4500)
+2020-08-26 17:07:17,389 - temp: (33, 1564, 4500)
+2020-08-26 17:07:20,717 - sal: (33, 1564, 4500)
+2020-08-26 17:07:26,227 - sal: (33, 1564, 4500)
+2020-08-26 17:07:26,504 - sal: (33, 1564, 4500)
+2020-08-26 17:07:28,798 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201810_2.nc ======
+2020-08-26 17:07:34,448 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201910_1.nc ======
+2020-08-26 17:07:36,509 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201810_3.nc
+2020-08-26 17:07:36,599 - file: 201810_3.nc
+2020-08-26 17:07:39,721 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201910_2.nc
+2020-08-26 17:07:39,722 - file: 201910_2.nc
+2020-08-26 17:07:46,728 - temp: (33, 1564, 4500)
+2020-08-26 17:07:47,202 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201712_5.nc ======
+2020-08-26 17:07:48,930 - temp: (33, 1564, 4500)
+2020-08-26 17:07:54,549 - sal: (33, 1564, 4500)
+2020-08-26 17:07:56,111 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2017/201712_6.nc
+2020-08-26 17:07:56,113 - file: 201712_6.nc
+2020-08-26 17:07:58,057 - sal: (33, 1564, 4500)
+2020-08-26 17:08:02,653 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201810_3.nc ======
+2020-08-26 17:08:05,990 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201910_2.nc ======
+2020-08-26 17:08:07,295 - temp: (33, 1564, 4500)
+2020-08-26 17:08:13,221 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201810_4.nc
+2020-08-26 17:08:13,408 - file: 201810_4.nc
+2020-08-26 17:08:20,097 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201910_3.nc
+2020-08-26 17:08:20,168 - sal: (33, 1564, 4500)
+2020-08-26 17:08:20,597 - file: 201910_3.nc
+2020-08-26 17:08:23,735 - temp: (33, 1564, 4500)
+2020-08-26 17:08:31,871 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2017/201712_6.nc ======
+2020-08-26 17:08:31,872 - temp: (33, 1564, 4500)
+2020-08-26 17:08:33,237 - sal: (33, 1564, 4500)
+2020-08-26 17:08:41,118 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201810_4.nc ======
+2020-08-26 17:08:41,428 - sal: (33, 1564, 4500)
+2020-08-26 17:08:48,963 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201810_5.nc
+2020-08-26 17:08:49,114 - file: 201810_5.nc
+2020-08-26 17:08:49,259 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201910_3.nc ======
+2020-08-26 17:08:56,753 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201910_4.nc
+2020-08-26 17:08:56,758 - file: 201910_4.nc
+2020-08-26 17:08:58,572 - temp: (33, 1564, 4500)
+2020-08-26 17:09:05,376 - temp: (33, 1564, 4500)
+2020-08-26 17:09:08,336 - sal: (33, 1564, 4500)
+2020-08-26 17:09:15,702 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201810_5.nc ======
+2020-08-26 17:09:19,723 - sal: (33, 1564, 4500)
+2020-08-26 17:09:27,357 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201910_4.nc ======
+2020-08-26 17:09:28,418 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201810_6.nc
+2020-08-26 17:09:28,617 - file: 201810_6.nc
+2020-08-26 17:09:40,306 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201910_5.nc
+2020-08-26 17:09:40,544 - file: 201910_5.nc
+2020-08-26 17:09:40,998 - temp: (33, 1564, 4500)
+2020-08-26 17:09:52,618 - temp: (33, 1564, 4500)
+2020-08-26 17:09:53,937 - sal: (33, 1564, 4500)
+2020-08-26 17:10:02,105 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201810_6.nc ======
+2020-08-26 17:10:02,617 - sal: (33, 1564, 4500)
+2020-08-26 17:10:10,854 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201910_5.nc ======
+2020-08-26 17:10:13,842 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201811_1.nc
+2020-08-26 17:10:14,070 - file: 201811_1.nc
+2020-08-26 17:10:20,341 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201910_6.nc
+2020-08-26 17:10:20,472 - file: 201910_6.nc
+2020-08-26 17:10:26,257 - temp: (33, 1564, 4500)
+2020-08-26 17:10:32,316 - temp: (33, 1564, 4500)
+2020-08-26 17:10:36,164 - sal: (33, 1564, 4500)
+2020-08-26 17:10:41,507 - sal: (33, 1564, 4500)
+2020-08-26 17:10:43,808 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201811_1.nc ======
+2020-08-26 17:10:49,636 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201910_6.nc ======
+2020-08-26 17:10:50,947 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201811_2.nc
+2020-08-26 17:10:50,949 - file: 201811_2.nc
+2020-08-26 17:10:58,241 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201911_1.nc
+2020-08-26 17:10:58,282 - file: 201911_1.nc
+2020-08-26 17:11:01,540 - temp: (33, 1564, 4500)
+2020-08-26 17:11:07,085 - temp: (33, 1564, 4500)
+2020-08-26 17:11:08,453 - sal: (33, 1564, 4500)
+2020-08-26 17:11:12,435 - sal: (33, 1564, 4500)
+2020-08-26 17:11:16,228 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201811_2.nc ======
+2020-08-26 17:11:20,001 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201911_1.nc ======
+2020-08-26 17:11:21,616 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201811_3.nc
+2020-08-26 17:11:22,431 - file: 201811_3.nc
+2020-08-26 17:11:26,942 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201911_2.nc
+2020-08-26 17:11:26,943 - file: 201911_2.nc
+2020-08-26 17:11:35,194 - temp: (33, 1564, 4500)
+2020-08-26 17:11:35,565 - temp: (33, 1564, 4500)
+2020-08-26 17:11:46,623 - sal: (33, 1564, 4500)
+2020-08-26 17:11:51,432 - sal: (33, 1564, 4500)
+2020-08-26 17:11:54,816 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201811_3.nc ======
+2020-08-26 17:12:01,306 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201811_4.nc
+2020-08-26 17:12:01,306 - file: 201811_4.nc
+2020-08-26 17:12:02,368 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201911_2.nc ======
+2020-08-26 17:12:07,745 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201911_3.nc
+2020-08-26 17:12:07,863 - file: 201911_3.nc
+2020-08-26 17:12:09,099 - temp: (33, 1564, 4500)
+2020-08-26 17:12:15,572 - temp: (33, 1564, 4500)
+2020-08-26 17:12:23,828 - sal: (33, 1564, 4500)
+2020-08-26 17:12:23,892 - sal: (33, 1564, 4500)
+2020-08-26 17:12:31,309 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201811_4.nc ======
+2020-08-26 17:12:33,267 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201911_3.nc ======
+2020-08-26 17:12:35,576 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201811_5.nc
+2020-08-26 17:12:35,817 - file: 201811_5.nc
+2020-08-26 17:12:39,941 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201911_4.nc
+2020-08-26 17:12:39,942 - file: 201911_4.nc
+2020-08-26 17:12:44,033 - temp: (33, 1564, 4500)
+2020-08-26 17:12:51,486 - temp: (33, 1564, 4500)
+2020-08-26 17:12:55,769 - sal: (33, 1564, 4500)
+2020-08-26 17:13:02,455 - sal: (33, 1564, 4500)
+2020-08-26 17:13:07,206 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201811_5.nc ======
+2020-08-26 17:13:10,318 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201911_4.nc ======
+2020-08-26 17:13:12,162 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201811_6.nc
+2020-08-26 17:13:12,192 - file: 201811_6.nc
+2020-08-26 17:13:15,604 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201911_5.nc
+2020-08-26 17:13:15,729 - file: 201911_5.nc
+2020-08-26 17:13:23,476 - temp: (33, 1564, 4500)
+2020-08-26 17:13:25,673 - temp: (33, 1564, 4500)
+2020-08-26 17:13:35,119 - sal: (33, 1564, 4500)
+2020-08-26 17:13:36,941 - sal: (33, 1564, 4500)
+2020-08-26 17:13:43,576 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201811_6.nc ======
+2020-08-26 17:13:45,419 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201911_5.nc ======
+2020-08-26 17:13:51,672 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201812_1.nc
+2020-08-26 17:13:52,223 - file: 201812_1.nc
+2020-08-26 17:13:58,380 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201911_6.nc
+2020-08-26 17:13:58,381 - file: 201911_6.nc
+2020-08-26 17:14:06,010 - temp: (33, 1564, 4500)
+2020-08-26 17:14:08,864 - temp: (33, 1564, 4500)
+2020-08-26 17:14:17,945 - sal: (33, 1564, 4500)
+2020-08-26 17:14:18,323 - sal: (33, 1564, 4500)
+2020-08-26 17:14:25,067 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201911_6.nc ======
+2020-08-26 17:14:26,791 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201812_1.nc ======
+2020-08-26 17:14:32,383 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201912_1.nc
+2020-08-26 17:14:32,427 - file: 201912_1.nc
+2020-08-26 17:14:37,182 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201812_2.nc
+2020-08-26 17:14:37,190 - file: 201812_2.nc
+2020-08-26 17:14:41,352 - temp: (33, 1564, 4500)
+2020-08-26 17:14:48,115 - temp: (33, 1564, 4500)
+2020-08-26 17:14:50,177 - sal: (33, 1564, 4500)
+2020-08-26 17:14:57,226 - sal: (33, 1564, 4500)
+2020-08-26 17:14:58,740 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201912_1.nc ======
+2020-08-26 17:15:03,904 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201912_2.nc
+2020-08-26 17:15:03,904 - file: 201912_2.nc
+2020-08-26 17:15:05,274 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201812_2.nc ======
+2020-08-26 17:15:11,333 - temp: (33, 1564, 4500)
+2020-08-26 17:15:17,882 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201812_3.nc
+2020-08-26 17:15:17,883 - file: 201812_3.nc
+2020-08-26 17:15:24,295 - sal: (33, 1564, 4500)
+2020-08-26 17:15:28,446 - temp: (33, 1564, 4500)
+2020-08-26 17:15:33,002 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201912_2.nc ======
+2020-08-26 17:15:35,301 - sal: (33, 1564, 4500)
+2020-08-26 17:15:37,728 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201912_3.nc
+2020-08-26 17:15:37,729 - file: 201912_3.nc
+2020-08-26 17:15:43,404 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201812_3.nc ======
+2020-08-26 17:15:48,243 - temp: (33, 1564, 4500)
+2020-08-26 17:15:52,441 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201812_4.nc
+2020-08-26 17:15:52,442 - file: 201812_4.nc
+2020-08-26 17:15:58,956 - sal: (33, 1564, 4500)
+2020-08-26 17:16:03,897 - temp: (33, 1564, 4500)
+2020-08-26 17:16:07,804 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201912_3.nc ======
+2020-08-26 17:16:09,939 - sal: (33, 1564, 4500)
+2020-08-26 17:16:12,638 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201912_4.nc
+2020-08-26 17:16:12,639 - file: 201912_4.nc
+2020-08-26 17:16:18,164 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201812_4.nc ======
+2020-08-26 17:16:18,446 - temp: (33, 1564, 4500)
+2020-08-26 17:16:26,239 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201812_5.nc
+2020-08-26 17:16:26,239 - file: 201812_5.nc
+2020-08-26 17:16:26,246 - sal: (33, 1564, 4500)
+2020-08-26 17:16:33,751 - temp: (33, 1564, 4500)
+2020-08-26 17:16:34,337 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201912_4.nc ======
+2020-08-26 17:16:40,998 - sal: (33, 1564, 4500)
+2020-08-26 17:16:43,279 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201912_5.nc
+2020-08-26 17:16:43,325 - file: 201912_5.nc
+2020-08-26 17:16:49,767 - temp: (33, 1564, 4500)
+2020-08-26 17:16:49,784 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201812_5.nc ======
+2020-08-26 17:16:57,078 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2018/201812_6.nc
+2020-08-26 17:16:57,233 - file: 201812_6.nc
+2020-08-26 17:17:04,487 - sal: (33, 1564, 4500)
+2020-08-26 17:17:06,473 - temp: (33, 1564, 4500)
+2020-08-26 17:17:12,807 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201912_5.nc ======
+2020-08-26 17:17:21,119 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201912_6.nc
+2020-08-26 17:17:21,120 - file: 201912_6.nc
+2020-08-26 17:17:21,491 - sal: (33, 1564, 4500)
+2020-08-26 17:17:27,805 - temp: (33, 1564, 4500)
+2020-08-26 17:17:29,044 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2018/201812_6.nc ======
+2020-08-26 17:17:59,169 - sal: (33, 1564, 4500)
+2020-08-26 17:18:06,300 - ====== saving to /share_data/xyf/new_hycom_d5_mean/new_2019/201912_6.nc ======
+2020-08-27 09:17:41,266 - -------------- Processing /share_data/aigroup/DATA/00_Processed_Data_for_Projects/NMDIS/5d_mean/HYCOM_d5_mean/2019 ---------------
+2020-08-27 09:17:41,316 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201901_1.nc
+2020-08-27 09:17:41,329 - exist /share_data/xyf/new_hycom_d5_mean/new_2019/201901_1.nc
+2020-08-27 09:17:41,329 - file: 201901_1.nc
+2020-08-27 09:17:47,332 - temp: (33, 1564, 4500)
+2020-08-27 09:17:52,468 - sal: (33, 1564, 4500)
+2020-08-27 09:20:04,099 - -------------- Processing /share_data/aigroup/DATA/00_Processed_Data_for_Projects/NMDIS/5d_mean/HYCOM_d5_mean/2019 ---------------
+2020-08-27 09:20:04,100 - out_file: /share_data/xyf/new_hycom_d5_mean/new_2019/201901_1.nc
+2020-08-27 09:20:04,100 - exist /share_data/xyf/new_hycom_d5_mean/new_2019/201901_1.nc
+2020-08-27 09:20:04,100 - file: 201901_1.nc
+2020-08-27 09:20:08,187 - temp: (33, 1564, 4500)
+2020-08-27 09:20:12,290 - sal: (33, 1564, 4500)
